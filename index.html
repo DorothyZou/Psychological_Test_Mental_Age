@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Psychological Test - Mental Age</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+
+<br><br>
+<div id="quiz_div">
+  <div id="mental_age">
+    <h1>Test your mental age</h1>
+  </div>
+  <div id="question">
+    <h2 id="h2">Are you ready?</h2>
+    <div id="comm">Find out the how old you really are</div>
+  </div>
+  <div id="first_button">
+    <button id="button_1" type=button onclick=quizStart(0);>Yes</button>
+  </div>
+  <div id="buttons">
+    <button id="button_2" class="buts" type=button onclick=nextQue(newInx,score+3);>Yes</button>
+    <button id="button_3" class="buts" type=button onclick=nextQue(newInx,score+2);>Yes</button>
+    <button id="button_4" class="buts" type=button onclick=nextQue(newInx,score+1);>Yes</button>
+  </div>
+  <div id="result"></div>
+  <div id="process">
+  </div>
+</div>
+
+</body>
+
+<script src="script.js"></script>
+</html>
