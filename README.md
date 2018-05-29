@@ -1,5 +1,6 @@
 # Psychological_Test_Mental_Age
 A simple test project of a psychological test.
+Available via [this link] (https://dorothyzou.github.io/Psychological_Test_Mental_Age/)
 
 It is very easy to use by only clicking on the buttons.
 
