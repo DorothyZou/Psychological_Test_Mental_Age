@@ -13,7 +13,7 @@ var questions = [
   ["Learning a new skill and you will feel:", "Very fun", "Easy", "Difficult"],
   ["Do you think it is difficult to change one of your habits?", "No, it is not difficult at all", "Depends on the habits", "Yes, it is really difficult to change my habits"],
   ["How frequently do you change your hairstyle?", "Within 1 month", "About every 3 months", "about every year"],
-  ["Do you like to thinking about the past?", "No, I prefer to imagine the future", "When it comes to feelings, it is still necessay to remember", "Often immersed in memories"],
+  ["Do you like to think about the past?", "No, I prefer to imagine the future", "When it comes to feelings, it is still necessay to remember", "Often immersed in memories"],
   ["If you play overnight with your friends. What do you do when you go to work on the next day?", "Arrived as usual", "Drinking some coffee and try to take a nap at sometime", "Being decadent for the whole day"],
   ["Has someone around you said you are stubborn?", "No", "No idea", "Someone said this."],
   ["Once you have made the decision, you will do the deed immediately, but thinking less about the consequences?", "Yes", "Sometimes", "No"],
